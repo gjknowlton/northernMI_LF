@@ -1,0 +1,229 @@
+"","model_label","Model_Code","refLabel","refPercent","BpS_Name","Var1","Var2","Freq","LABEL.x","LABEL.y","BPS_CODE","ZONE","total_count","currentPercent"
+"1","13022_41_50_51_A","13022_41_50_51","A",2,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,1,427,"A","A",13022,51,14548308,0
+"2","13022_41_50_51_A","13022_41_50_51","A",2,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,1,52,"A","A",13022,51,2163105,0
+"3","13022_41_50_51_B","13022_41_50_51","B",4,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,2,129578,"B","B",13022,51,14548308,0
+"4","13022_41_50_51_B","13022_41_50_51","B",4,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2,13055,"B","B",13022,51,2163105,0
+"5","13022_41_50_51_C","13022_41_50_51","C",14,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,3,887366,"C","C",13022,51,14548308,6
+"6","13022_41_50_51_C","13022_41_50_51","C",14,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,3,23231,"C","C",13022,51,2163105,1
+"7","13022_41_50_51_D","13022_41_50_51","D",76,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","13022_41_50_51_E","13022_41_50_51","E",4,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5,5624620,"E","E",13022,51,14548308,38
+"9","13022_41_50_51_E","13022_41_50_51","E",4,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,5,588956,"E","E",13022,51,2163105,27
+"10","13022_41_50_51_Agriculture","13022_41_50_51","Agriculture",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,180,3074754,"Agriculture","Agriculture",13022,51,14548308,21
+"11","13022_41_50_51_Agriculture","13022_41_50_51","Agriculture",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,180,819172,"Agriculture","Agriculture",13022,51,2163105,37
+"12","13022_41_50_51_Developed","13022_41_50_51","Developed",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,120,1399037,"Developed","Developed",13022,51,14548308,9
+"13","13022_41_50_51_Developed","13022_41_50_51","Developed",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,120,247201,"Developed","Developed",13022,51,2163105,11
+"14","13022_41_50_51_Water","13022_41_50_51","Water",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","13022_41_50_51_UN","13022_41_50_51","UN",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,6,2024647,"UN","UN",13022,51,14548308,13
+"16","13022_41_50_51_UN","13022_41_50_51","UN",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,6,333546,"UN","UN",13022,51,2163105,15
+"17","13022_41_50_51_UE","13022_41_50_51","UE",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,7,1407879,"UE","UE",13022,51,14548308,9
+"18","13022_41_50_51_UE","13022_41_50_51","UE",0,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,7,137892,"UE","UE",13022,51,2163105,6
+"19","13100_51_A","13100_51","A",3,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1,74,"A","A",13100,51,172883,0
+"20","13100_51_B","13100_51","B",7,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,2,1,"B","B",13100,51,172883,0
+"21","13100_51_C","13100_51","C",27,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,3,3385,"C","C",13100,51,172883,1
+"22","13100_51_D","13100_51","D",61,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,4,4462,"D","D",13100,51,172883,2
+"23","13100_51_E","13100_51","E",2,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,5,39,"E","E",13100,51,172883,0
+"24","13100_51_Agriculture","13100_51","Agriculture",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,180,129760,"Agriculture","Agriculture",13100,51,172883,75
+"25","13100_51_Developed","13100_51","Developed",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,120,29878,"Developed","Developed",13100,51,172883,17
+"26","13100_51_Water","13100_51","Water",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","13100_51_UN","13100_51","UN",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,6,9,"UN","UN",13100,51,172883,0
+"28","13100_51_UE","13100_51","UE",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,7,5275,"UE","UE",13100,51,172883,3
+"29","13110_51_A","13110_51","A",3,"North-Central Interior Dry Oak Forest and Woodland",1618,1,17,"A","A",13110,51,14047,0
+"30","13110_51_B","13110_51","B",9,"North-Central Interior Dry Oak Forest and Woodland",1618,2,8,"B","B",13110,51,14047,0
+"31","13110_51_C","13110_51","C",50,"North-Central Interior Dry Oak Forest and Woodland",1618,3,3625,"C","C",13110,51,14047,25
+"32","13110_51_D","13110_51","D",34,"North-Central Interior Dry Oak Forest and Woodland",1618,4,3903,"D","D",13110,51,14047,27
+"33","13110_51_E","13110_51","E",4,"North-Central Interior Dry Oak Forest and Woodland",1618,5,49,"E","E",13110,51,14047,0
+"34","13110_51_Agriculture","13110_51","Agriculture",0,"North-Central Interior Dry Oak Forest and Woodland",1618,180,2477,"Agriculture","Agriculture",13110,51,14047,17
+"35","13110_51_Developed","13110_51","Developed",0,"North-Central Interior Dry Oak Forest and Woodland",1618,120,2773,"Developed","Developed",13110,51,14047,19
+"36","13110_51_Water","13110_51","Water",0,"North-Central Interior Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","13110_51_UN","13110_51","UN",0,"North-Central Interior Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","13110_51_UE","13110_51","UE",0,"North-Central Interior Dry Oak Forest and Woodland",1618,7,1195,"UE","UE",13110,51,14047,8
+"39","13130_47_50_51_A","13130_47_50_51","A",8,"North-Central Interior Beech-Maple Forest",1619,1,2629,"A","A",13130,51,727594,0
+"40","13130_47_50_51_B","13130_47_50_51","B",9,"North-Central Interior Beech-Maple Forest",1619,2,181,"B","B",13130,51,727594,0
+"41","13130_47_50_51_C","13130_47_50_51","C",14,"North-Central Interior Beech-Maple Forest",1619,3,43256,"C","C",13130,51,727594,5
+"42","13130_47_50_51_D","13130_47_50_51","D",69,"North-Central Interior Beech-Maple Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","13130_47_50_51_E","13130_47_50_51","E",NA,"North-Central Interior Beech-Maple Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","13130_47_50_51_Agriculture","13130_47_50_51","Agriculture",0,"North-Central Interior Beech-Maple Forest",1619,180,481906,"Agriculture","Agriculture",13130,51,727594,66
+"45","13130_47_50_51_Developed","13130_47_50_51","Developed",0,"North-Central Interior Beech-Maple Forest",1619,120,169080,"Developed","Developed",13130,51,727594,23
+"46","13130_47_50_51_Water","13130_47_50_51","Water",0,"North-Central Interior Beech-Maple Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","13130_47_50_51_UN","13130_47_50_51","UN",0,"North-Central Interior Beech-Maple Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","13130_47_50_51_UE","13130_47_50_51","UE",0,"North-Central Interior Beech-Maple Forest",1619,7,30542,"UE","UE",13130,51,727594,4
+"49","13441_51_A","13441_51","A",35,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,1,1403,"A","A",13441,51,1400673,0
+"50","13441_51_B","13441_51","B",15,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,2,807,"B","B",13441,51,1400673,0
+"51","13441_51_C","13441_51","C",31,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,3,89048,"C","C",13441,51,1400673,6
+"52","13441_51_D","13441_51","D",19,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,4,958266,"D","D",13441,51,1400673,68
+"53","13441_51_E","13441_51","E",NA,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","13441_51_Agriculture","13441_51","Agriculture",0,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,180,22081,"Agriculture","Agriculture",13441,51,1400673,1
+"55","13441_51_Developed","13441_51","Developed",0,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,120,167696,"Developed","Developed",13441,51,1400673,11
+"56","13441_51_Water","13441_51","Water",0,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","13441_51_UN","13441_51","UN",0,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,6,35767,"UN","UN",13441,51,1400673,2
+"58","13441_51_UE","13441_51","UE",0,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,7,125605,"UE","UE",13441,51,1400673,8
+"59","13442_51_A","13442_51","A",31,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,1,4,"A","A",13442,51,36879,0
+"60","13442_51_B","13442_51","B",34,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,2,474,"B","B",13442,51,36879,1
+"61","13442_51_C","13442_51","C",25,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,3,12025,"C","C",13442,51,36879,32
+"62","13442_51_D","13442_51","D",10,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","13442_51_E","13442_51","E",NA,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","13442_51_Agriculture","13442_51","Agriculture",0,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,180,3091,"Agriculture","Agriculture",13442,51,36879,8
+"65","13442_51_Developed","13442_51","Developed",0,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,120,4736,"Developed","Developed",13442,51,36879,12
+"66","13442_51_Water","13442_51","Water",0,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","13442_51_UN","13442_51","UN",0,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,6,12506,"UN","UN",13442,51,36879,33
+"68","13442_51_UE","13442_51","UE",0,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,7,4043,"UE","UE",13442,51,36879,10
+"69","13620_51_63_64_65_66_A","13620_51_63_64_65_66","A",13,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,1,15833,"A","A",13620,51,6517076,0
+"70","13620_51_63_64_65_66_B","13620_51_63_64_65_66","B",13,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2,3929939,"B","B",13620,51,6517076,60
+"71","13620_51_63_64_65_66_C","13620_51_63_64_65_66","C",48,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,3,387847,"C","C",13620,51,6517076,5
+"72","13620_51_63_64_65_66_D","13620_51_63_64_65_66","D",26,"Laurentian-Acadian Northern Pine(-Oak) Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","13620_51_63_64_65_66_E","13620_51_63_64_65_66","E",NA,"Laurentian-Acadian Northern Pine(-Oak) Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","13620_51_63_64_65_66_Agriculture","13620_51_63_64_65_66","Agriculture",0,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,180,590309,"Agriculture","Agriculture",13620,51,6517076,9
+"75","13620_51_63_64_65_66_Developed","13620_51_63_64_65_66","Developed",0,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,120,860472,"Developed","Developed",13620,51,6517076,13
+"76","13620_51_63_64_65_66_Water","13620_51_63_64_65_66","Water",0,"Laurentian-Acadian Northern Pine(-Oak) Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","13620_51_63_64_65_66_UN","13620_51_63_64_65_66","UN",0,"Laurentian-Acadian Northern Pine(-Oak) Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","13620_51_63_64_65_66_UE","13620_51_63_64_65_66","UE",0,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,7,732676,"UE","UE",13620,51,6517076,11
+"79","13651_51_A","13651_51","A",7,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1,12393,"A","A",13651,51,1493913,0
+"80","13651_51_B","13651_51","B",22,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,2,21,"B","B",13651,51,1493913,0
+"81","13651_51_C","13651_51","C",7,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,3,10301,"C","C",13651,51,1493913,0
+"82","13651_51_D","13651_51","D",64,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,4,793504,"D","D",13651,51,1493913,53
+"83","13651_51_E","13651_51","E",NA,"Boreal White Spruce-Fir-Hardwood Forest - Inland",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","13651_51_Agriculture","13651_51","Agriculture",0,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,180,356522,"Agriculture","Agriculture",13651,51,1493913,23
+"85","13651_51_Developed","13651_51","Developed",0,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,120,217357,"Developed","Developed",13651,51,1493913,14
+"86","13651_51_Water","13651_51","Water",0,"Boreal White Spruce-Fir-Hardwood Forest - Inland",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","13651_51_UN","13651_51","UN",0,"Boreal White Spruce-Fir-Hardwood Forest - Inland",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","13651_51_UE","13651_51","UE",0,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,7,103815,"UE","UE",13651,51,1493913,6
+"89","13652_51_A","13652_51","A",4,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,1,5464,"A","A",13652,51,910330,0
+"90","13652_51_B","13652_51","B",13,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,2,10,"B","B",13652,51,910330,0
+"91","13652_51_C","13652_51","C",4,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,3,4548,"C","C",13652,51,910330,0
+"92","13652_51_D","13652_51","D",79,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,4,438927,"D","D",13652,51,910330,48
+"93","13652_51_E","13652_51","E",NA,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","13652_51_Agriculture","13652_51","Agriculture",0,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,180,283928,"Agriculture","Agriculture",13652,51,910330,31
+"95","13652_51_Developed","13652_51","Developed",0,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,120,127828,"Developed","Developed",13652,51,910330,14
+"96","13652_51_Water","13652_51","Water",0,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","13652_51_UN","13652_51","UN",0,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","13652_51_UE","13652_51","UE",0,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,7,49625,"UE","UE",13652,51,910330,5
+"99","13660_51_63_64_65_66_A","13660_51_63_64_65_66","A",3,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1,15812,"A","A",13660,51,3715254,0
+"100","13660_51_63_64_65_66_B","13660_51_63_64_65_66","B",16,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,2,13037,"B","B",13660,51,3715254,0
+"101","13660_51_63_64_65_66_C","13660_51_63_64_65_66","C",39,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,3,5917,"C","C",13660,51,3715254,0
+"102","13660_51_63_64_65_66_D","13660_51_63_64_65_66","D",42,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,4,1749801,"D","D",13660,51,3715254,47
+"103","13660_51_63_64_65_66_E","13660_51_63_64_65_66","E",NA,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","13660_51_63_64_65_66_Agriculture","13660_51_63_64_65_66","Agriculture",0,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,180,1221188,"Agriculture","Agriculture",13660,51,3715254,32
+"105","13660_51_63_64_65_66_Developed","13660_51_63_64_65_66","Developed",0,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,120,527384,"Developed","Developed",13660,51,3715254,14
+"106","13660_51_63_64_65_66_Water","13660_51_63_64_65_66","Water",0,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","13660_51_63_64_65_66_UN","13660_51_63_64_65_66","UN",0,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","13660_51_63_64_65_66_UE","13660_51_63_64_65_66","UE",0,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,7,182115,"UE","UE",13660,51,3715254,4
+"109","14071_41_50_51_A","14071_41_50_51","A",9,"Laurentian Pine-Oak Barrens",1628,1,3826,"A","A",14071,51,3996376,0
+"110","14071_41_50_51_B","14071_41_50_51","B",1,"Laurentian Pine-Oak Barrens",1628,2,201,"B","B",14071,51,3996376,0
+"111","14071_41_50_51_C","14071_41_50_51","C",26,"Laurentian Pine-Oak Barrens",1628,3,117481,"C","C",14071,51,3996376,2
+"112","14071_41_50_51_D","14071_41_50_51","D",62,"Laurentian Pine-Oak Barrens",1628,4,1784403,"D","D",14071,51,3996376,44
+"113","14071_41_50_51_E","14071_41_50_51","E",2,"Laurentian Pine-Oak Barrens",1628,5,815643,"E","E",14071,51,3996376,20
+"114","14071_41_50_51_Agriculture","14071_41_50_51","Agriculture",0,"Laurentian Pine-Oak Barrens",1628,180,41855,"Agriculture","Agriculture",14071,51,3996376,1
+"115","14071_41_50_51_Developed","14071_41_50_51","Developed",0,"Laurentian Pine-Oak Barrens",1628,120,484521,"Developed","Developed",14071,51,3996376,12
+"116","14071_41_50_51_Water","14071_41_50_51","Water",0,"Laurentian Pine-Oak Barrens",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","14071_41_50_51_UN","14071_41_50_51","UN",0,"Laurentian Pine-Oak Barrens",1628,6,32298,"UN","UN",14071,51,3996376,0
+"118","14071_41_50_51_UE","14071_41_50_51","UE",0,"Laurentian Pine-Oak Barrens",1628,7,716148,"UE","UE",14071,51,3996376,17
+"119","14072_41_50_51_A","14072_41_50_51","A",14,"Laurentian Pine-Oak Barrens - Jack Pine",1629,1,513,"A","A",14072,51,451055,0
+"120","14072_41_50_51_B","14072_41_50_51","B",23,"Laurentian Pine-Oak Barrens - Jack Pine",1629,2,253,"B","B",14072,51,451055,0
+"121","14072_41_50_51_C","14072_41_50_51","C",49,"Laurentian Pine-Oak Barrens - Jack Pine",1629,3,340373,"C","C",14072,51,451055,75
+"122","14072_41_50_51_D","14072_41_50_51","D",14,"Laurentian Pine-Oak Barrens - Jack Pine",1629,4,11,"D","D",14072,51,451055,0
+"123","14072_41_50_51_E","14072_41_50_51","E",NA,"Laurentian Pine-Oak Barrens - Jack Pine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","14072_41_50_51_Agriculture","14072_41_50_51","Agriculture",0,"Laurentian Pine-Oak Barrens - Jack Pine",1629,180,10220,"Agriculture","Agriculture",14072,51,451055,2
+"125","14072_41_50_51_Developed","14072_41_50_51","Developed",0,"Laurentian Pine-Oak Barrens - Jack Pine",1629,120,46908,"Developed","Developed",14072,51,451055,10
+"126","14072_41_50_51_Water","14072_41_50_51","Water",0,"Laurentian Pine-Oak Barrens - Jack Pine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","14072_41_50_51_UN","14072_41_50_51","UN",0,"Laurentian Pine-Oak Barrens - Jack Pine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","14072_41_50_51_UE","14072_41_50_51","UE",0,"Laurentian Pine-Oak Barrens - Jack Pine",1629,7,52777,"UE","UE",14072,51,451055,11
+"129","14110_49_51_52_A","14110_49_51_52","A",46,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,1,865,"A","A",14110,51,82765,1
+"130","14110_49_51_52_B","14110_49_51_52","B",27,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,2,51,"B","B",14110,51,82765,0
+"131","14110_49_51_52_C","14110_49_51_52","C",27,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,3,2125,"C","C",14110,51,82765,2
+"132","14110_49_51_52_D","14110_49_51_52","D",NA,"Great Lakes Wet-Mesic Lakeplain Prairie",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","14110_49_51_52_E","14110_49_51_52","E",NA,"Great Lakes Wet-Mesic Lakeplain Prairie",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","14110_49_51_52_Agriculture","14110_49_51_52","Agriculture",0,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,180,66150,"Agriculture","Agriculture",14110,51,82765,79
+"135","14110_49_51_52_Developed","14110_49_51_52","Developed",0,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,120,10128,"Developed","Developed",14110,51,82765,12
+"136","14110_49_51_52_Water","14110_49_51_52","Water",0,"Great Lakes Wet-Mesic Lakeplain Prairie",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","14110_49_51_52_UN","14110_49_51_52","UN",0,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,6,82,"UN","UN",14110,51,82765,0
+"138","14110_49_51_52_UE","14110_49_51_52","UE",0,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,7,3364,"UE","UE",14110,51,82765,4
+"139","14440_41_50_51_A","14440_41_50_51","A",15,"Eastern Boreal Floodplain",1633,1,5,"A","A",14440,51,127192,0
+"140","14440_41_50_51_B","14440_41_50_51","B",35,"Eastern Boreal Floodplain",1633,2,1039,"B","B",14440,51,127192,0
+"141","14440_41_50_51_C","14440_41_50_51","C",37,"Eastern Boreal Floodplain",1633,3,96266,"C","C",14440,51,127192,75
+"142","14440_41_50_51_D","14440_41_50_51","D",13,"Eastern Boreal Floodplain",1633,4,21,"D","D",14440,51,127192,0
+"143","14440_41_50_51_E","14440_41_50_51","E",NA,"Eastern Boreal Floodplain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","14440_41_50_51_Agriculture","14440_41_50_51","Agriculture",0,"Eastern Boreal Floodplain",1633,180,689,"Agriculture","Agriculture",14440,51,127192,0
+"145","14440_41_50_51_Developed","14440_41_50_51","Developed",0,"Eastern Boreal Floodplain",1633,120,1734,"Developed","Developed",14440,51,127192,1
+"146","14440_41_50_51_Water","14440_41_50_51","Water",0,"Eastern Boreal Floodplain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","14440_41_50_51_UN","14440_41_50_51","UN",0,"Eastern Boreal Floodplain",1633,6,26447,"UN","UN",14440,51,127192,20
+"148","14440_41_50_51_UE","14440_41_50_51","UE",0,"Eastern Boreal Floodplain",1633,7,991,"UE","UE",14440,51,127192,0
+"149","14660_50_51_A","14660_50_51","A",23,"Great Lakes Wooded Dune and Swale",1634,1,1135,"A","A",14660,51,40669,2
+"150","14660_50_51_B","14660_50_51","B",23,"Great Lakes Wooded Dune and Swale",1634,2,130,"B","B",14660,51,40669,0
+"151","14660_50_51_C","14660_50_51","C",27,"Great Lakes Wooded Dune and Swale",1634,3,35766,"C","C",14660,51,40669,87
+"152","14660_50_51_D","14660_50_51","D",27,"Great Lakes Wooded Dune and Swale",1634,4,949,"D","D",14660,51,40669,2
+"153","14660_50_51_E","14660_50_51","E",NA,"Great Lakes Wooded Dune and Swale",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","14660_50_51_Agriculture","14660_50_51","Agriculture",0,"Great Lakes Wooded Dune and Swale",1634,180,137,"Agriculture","Agriculture",14660,51,40669,0
+"155","14660_50_51_Developed","14660_50_51","Developed",0,"Great Lakes Wooded Dune and Swale",1634,120,1564,"Developed","Developed",14660,51,40669,3
+"156","14660_50_51_Water","14660_50_51","Water",0,"Great Lakes Wooded Dune and Swale",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","14660_50_51_UN","14660_50_51","UN",0,"Great Lakes Wooded Dune and Swale",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","14660_50_51_UE","14660_50_51","UE",0,"Great Lakes Wooded Dune and Swale",1634,7,988,"UE","UE",14660,51,40669,2
+"159","14710_51_62_A","14710_51_62","A",15,"Central Interior and Appalachian Floodplain Systems",1635,1,241,"A","A",14710,51,386069,0
+"160","14710_51_62_B","14710_51_62","B",23,"Central Interior and Appalachian Floodplain Systems",1635,2,1462,"B","B",14710,51,386069,0
+"161","14710_51_62_C","14710_51_62","C",44,"Central Interior and Appalachian Floodplain Systems",1635,3,162155,"C","C",14710,51,386069,42
+"162","14710_51_62_D","14710_51_62","D",18,"Central Interior and Appalachian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","14710_51_62_E","14710_51_62","E",NA,"Central Interior and Appalachian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","14710_51_62_Agriculture","14710_51_62","Agriculture",0,"Central Interior and Appalachian Floodplain Systems",1635,180,20065,"Agriculture","Agriculture",14710,51,386069,5
+"165","14710_51_62_Developed","14710_51_62","Developed",0,"Central Interior and Appalachian Floodplain Systems",1635,120,13354,"Developed","Developed",14710,51,386069,3
+"166","14710_51_62_Water","14710_51_62","Water",0,"Central Interior and Appalachian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","14710_51_62_UN","14710_51_62","UN",0,"Central Interior and Appalachian Floodplain Systems",1635,6,177144,"UN","UN",14710,51,386069,45
+"168","14710_51_62_UE","14710_51_62","UE",0,"Central Interior and Appalachian Floodplain Systems",1635,7,11648,"UE","UE",14710,51,386069,3
+"169","14750_41_50_51_63_64_65_66_A","14750_41_50_51_63_64_65_66","A",16,"Laurentian-Acadian Floodplain Systems",1636,1,10,"A","A",14750,51,697230,0
+"170","14750_41_50_51_63_64_65_66_B","14750_41_50_51_63_64_65_66","B",23,"Laurentian-Acadian Floodplain Systems",1636,2,12167,"B","B",14750,51,697230,1
+"171","14750_41_50_51_63_64_65_66_C","14750_41_50_51_63_64_65_66","C",44,"Laurentian-Acadian Floodplain Systems",1636,3,289898,"C","C",14750,51,697230,41
+"172","14750_41_50_51_63_64_65_66_D","14750_41_50_51_63_64_65_66","D",17,"Laurentian-Acadian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","14750_41_50_51_63_64_65_66_E","14750_41_50_51_63_64_65_66","E",NA,"Laurentian-Acadian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","14750_41_50_51_63_64_65_66_Agriculture","14750_41_50_51_63_64_65_66","Agriculture",0,"Laurentian-Acadian Floodplain Systems",1636,180,14159,"Agriculture","Agriculture",14750,51,697230,2
+"175","14750_41_50_51_63_64_65_66_Developed","14750_41_50_51_63_64_65_66","Developed",0,"Laurentian-Acadian Floodplain Systems",1636,120,13163,"Developed","Developed",14750,51,697230,1
+"176","14750_41_50_51_63_64_65_66_Water","14750_41_50_51_63_64_65_66","Water",0,"Laurentian-Acadian Floodplain Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","14750_41_50_51_63_64_65_66_UN","14750_41_50_51_63_64_65_66","UN",0,"Laurentian-Acadian Floodplain Systems",1636,6,357414,"UN","UN",14750,51,697230,51
+"178","14750_41_50_51_63_64_65_66_UE","14750_41_50_51_63_64_65_66","UE",0,"Laurentian-Acadian Floodplain Systems",1636,7,10419,"UE","UE",14750,51,697230,1
+"179","14770_40_41_50_51_A","14770_40_41_50_51","A",14,"Boreal Acidic Peatland Systems",1637,1,14888,"A","A",14770,51,597938,2
+"180","14770_40_41_50_51_B","14770_40_41_50_51","B",16,"Boreal Acidic Peatland Systems",1637,2,35055,"B","B",14770,51,597938,5
+"181","14770_40_41_50_51_C","14770_40_41_50_51","C",38,"Boreal Acidic Peatland Systems",1637,3,128249,"C","C",14770,51,597938,21
+"182","14770_40_41_50_51_D","14770_40_41_50_51","D",23,"Boreal Acidic Peatland Systems",1637,4,382011,"D","D",14770,51,597938,63
+"183","14770_40_41_50_51_E","14770_40_41_50_51","E",9,"Boreal Acidic Peatland Systems",1637,5,392,"E","E",14770,51,597938,0
+"184","14770_40_41_50_51_Agriculture","14770_40_41_50_51","Agriculture",0,"Boreal Acidic Peatland Systems",1637,180,3684,"Agriculture","Agriculture",14770,51,597938,0
+"185","14770_40_41_50_51_Developed","14770_40_41_50_51","Developed",0,"Boreal Acidic Peatland Systems",1637,120,15078,"Developed","Developed",14770,51,597938,2
+"186","14770_40_41_50_51_Water","14770_40_41_50_51","Water",0,"Boreal Acidic Peatland Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","14770_40_41_50_51_UN","14770_40_41_50_51","UN",0,"Boreal Acidic Peatland Systems",1637,6,5344,"UN","UN",14770,51,597938,0
+"188","14770_40_41_50_51_UE","14770_40_41_50_51","UE",0,"Boreal Acidic Peatland Systems",1637,7,13237,"UE","UE",14770,51,597938,2
+"189","14790_41_42_47_48_50_51_53_A","14790_41_42_47_48_50_51_53","A",24,"Central Interior and Appalachian Swamp Systems",1638,1,959,"A","A",14790,51,90062,1
+"190","14790_41_42_47_48_50_51_53_B","14790_41_42_47_48_50_51_53","B",36,"Central Interior and Appalachian Swamp Systems",1638,2,658,"B","B",14790,51,90062,0
+"191","14790_41_42_47_48_50_51_53_C","14790_41_42_47_48_50_51_53","C",40,"Central Interior and Appalachian Swamp Systems",1638,3,76381,"C","C",14790,51,90062,84
+"192","14790_41_42_47_48_50_51_53_D","14790_41_42_47_48_50_51_53","D",NA,"Central Interior and Appalachian Swamp Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","14790_41_42_47_48_50_51_53_E","14790_41_42_47_48_50_51_53","E",NA,"Central Interior and Appalachian Swamp Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","14790_41_42_47_48_50_51_53_Agriculture","14790_41_42_47_48_50_51_53","Agriculture",0,"Central Interior and Appalachian Swamp Systems",1638,180,2301,"Agriculture","Agriculture",14790,51,90062,2
+"195","14790_41_42_47_48_50_51_53_Developed","14790_41_42_47_48_50_51_53","Developed",0,"Central Interior and Appalachian Swamp Systems",1638,120,2617,"Developed","Developed",14790,51,90062,2
+"196","14790_41_42_47_48_50_51_53_Water","14790_41_42_47_48_50_51_53","Water",0,"Central Interior and Appalachian Swamp Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","14790_41_42_47_48_50_51_53_UN","14790_41_42_47_48_50_51_53","UN",0,"Central Interior and Appalachian Swamp Systems",1638,6,2492,"UN","UN",14790,51,90062,2
+"198","14790_41_42_47_48_50_51_53_UE","14790_41_42_47_48_50_51_53","UE",0,"Central Interior and Appalachian Swamp Systems",1638,7,4654,"UE","UE",14790,51,90062,5
+"199","14810_41_50_51_63_A","14810_41_50_51_63","A",14,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,1,417282,"A","A",14810,51,7205345,5
+"200","14810_41_50_51_63_B","14810_41_50_51_63","B",11,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,2,204928,"B","B",14810,51,7205345,2
+"201","14810_41_50_51_63_C","14810_41_50_51_63","C",21,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,3,1047287,"C","C",14810,51,7205345,14
+"202","14810_41_50_51_63_D","14810_41_50_51_63","D",54,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,4,5197065,"D","D",14810,51,7205345,72
+"203","14810_41_50_51_63_E","14810_41_50_51_63","E",NA,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","14810_41_50_51_63_Agriculture","14810_41_50_51_63","Agriculture",0,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,180,108005,"Agriculture","Agriculture",14810,51,7205345,1
+"205","14810_41_50_51_63_Developed","14810_41_50_51_63","Developed",0,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,120,135101,"Developed","Developed",14810,51,7205345,1
+"206","14810_41_50_51_63_Water","14810_41_50_51_63","Water",0,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","14810_41_50_51_63_UN","14810_41_50_51_63","UN",0,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","14810_41_50_51_63_UE","14810_41_50_51_63","UE",0,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,7,95677,"UE","UE",14810,51,7205345,1
+"209","14920_41_50_51_52_63_A","14920_41_50_51_52_63","A",22,"Great Lakes Coastal Marsh Systems",1640,1,5,"A","A",14920,51,51068,0
+"210","14920_41_50_51_52_63_B","14920_41_50_51_52_63","B",22,"Great Lakes Coastal Marsh Systems",1640,2,6822,"B","B",14920,51,51068,13
+"211","14920_41_50_51_52_63_C","14920_41_50_51_52_63","C",56,"Great Lakes Coastal Marsh Systems",1640,3,399,"C","C",14920,51,51068,0
+"212","14920_41_50_51_52_63_D","14920_41_50_51_52_63","D",NA,"Great Lakes Coastal Marsh Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","14920_41_50_51_52_63_E","14920_41_50_51_52_63","E",NA,"Great Lakes Coastal Marsh Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","14920_41_50_51_52_63_Agriculture","14920_41_50_51_52_63","Agriculture",0,"Great Lakes Coastal Marsh Systems",1640,180,2342,"Agriculture","Agriculture",14920,51,51068,4
+"215","14920_41_50_51_52_63_Developed","14920_41_50_51_52_63","Developed",0,"Great Lakes Coastal Marsh Systems",1640,120,14663,"Developed","Developed",14920,51,51068,28
+"216","14920_41_50_51_52_63_Water","14920_41_50_51_52_63","Water",0,"Great Lakes Coastal Marsh Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","14920_41_50_51_52_63_UN","14920_41_50_51_52_63","UN",0,"Great Lakes Coastal Marsh Systems",1640,6,9760,"UN","UN",14920,51,51068,19
+"218","14920_41_50_51_52_63_UE","14920_41_50_51_52_63","UE",0,"Great Lakes Coastal Marsh Systems",1640,7,17077,"UE","UE",14920,51,51068,33
+"219","14940_41_50_51_A","14940_41_50_51","A",8,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1,1,"A","A",14940,51,2255,0
+"220","14940_41_50_51_B","14940_41_50_51","B",56,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,2,218,"B","B",14940,51,2255,9
+"221","14940_41_50_51_C","14940_41_50_51","C",31,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,3,2,"C","C",14940,51,2255,0
+"222","14940_41_50_51_D","14940_41_50_51","D",5,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,4,929,"D","D",14940,51,2255,41
+"223","14940_41_50_51_E","14940_41_50_51","E",NA,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","14940_41_50_51_Agriculture","14940_41_50_51","Agriculture",0,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,180,120,"Agriculture","Agriculture",14940,51,2255,5
+"225","14940_41_50_51_Developed","14940_41_50_51","Developed",0,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,120,71,"Developed","Developed",14940,51,2255,3
+"226","14940_41_50_51_Water","14940_41_50_51","Water",0,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","14940_41_50_51_UN","14940_41_50_51","UN",0,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,6,788,"UN","UN",14940,51,2255,34
+"228","14940_41_50_51_UE","14940_41_50_51","UE",0,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,7,126,"UE","UE",14940,51,2255,5
