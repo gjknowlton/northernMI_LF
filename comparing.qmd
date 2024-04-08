@@ -105,9 +105,9 @@ BPS_SCLS2 <- read.csv("data/bpsScls2.csv")
 
 bps_scls_3 <- BPS_SCLS2 %>%
   group_by(Var1) %>%
-  mutate(total.count = sum(Freq)) %>%
+  #mutate(total.count = sum(Freq)) %>%
   ungroup() %>%
-  dplyr::filter(dense_rank(desc(total.count)) < 4) %>%
+  dplyr::filter(dense_rank(desc(total_count)) < 4) %>%
   dplyr::select(c("BpS_Name", "refLabel",  "currentPercent", "refPercent")) %>%
   pivot_longer(
     cols = c(`refPercent`, `currentPercent`),
