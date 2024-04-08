@@ -24,7 +24,13 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 
 ### Summary
 
+- Large shifts have occured in forest landcover in the northern lower peninsula of Michigan. Approximately half of historically hardwood forests still remain in that class, with the portions being split between developed, agricultural, and coniferous forest landcover classes. 
 
+- Mixed hardwood-conifer forests have largely been lost from the landscape and have transitioned to either hardwood or conifer forest. Other portions have been developed or are now in agricultural land uses. 
+
+- Hardwood conifer swamps are currently in later succession classes than they were historically. 
+
+- Hardwood hemlock forests have mostly been lost from the region and those that remain are in succession class E **what is this**
 
 *Note: number presented when hovering equals acres.*
 
