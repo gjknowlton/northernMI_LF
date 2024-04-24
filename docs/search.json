@@ -11,7 +11,7 @@
     "href": "present.html#summary",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary\n\nMajor changes have occurred in the landcover of northern lower peninsula of Michigan as of 2022. However, care should be taken when directly comparing past and present maps, as classification systems for present Biophysical Settings have been updated to align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:\nNorthern hardwood forests and hardwood swamps are still the dominant ecosystem classes. However, we no longer see the prominance of hemlock forests, pine-oak barrens, or northern pine-oak forests. Much of the region has been fragmented and agricultural land cover has become prominent.\nMuch of the region remains forested, but changes in forest composition and structure have occurred widely. Partly this can be attributed to the current forests coming back after widespread logging in the 19th century. The loss of pine-oak barrens is likely due to fire suppression."
+    "text": "Summary\n\nMajor changes have occurred in the landcover of northern lower peninsula of Michigan as of 2022. However, care should be taken when directly comparing past and present maps, as classification systems for present Biophysical Settings have been updated to align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:\nNorthern hardwood forests and hardwood swamps are still the dominant ecosystem classes. However, we no longer see the prominence of hemlock forests, pine-oak barrens, or northern pine-oak forests. Much of the region has been fragmented and agricultural land cover has become prominent.\nMuch of the region remains forested, but changes in forest composition and structure have occurred widely. Partly this can be attributed to the current forests coming back after widespread logging in the 19th century. The loss of pine-oak barrens is likely due to fire suppression."
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
@@ -44,28 +44,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Landscape Assessment",
+    "title": "Landscape Assessment for the Northern Lower Peninsula of Michigan",
     "section": "",
-    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions OF THE LANDSCAPE.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
+    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions of the northern portion of the lower peninsula of Michigan.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#goals-of-this-demonstration",
     "href": "index.html#goals-of-this-demonstration",
-    "title": "Landscape Assessment",
+    "title": "Landscape Assessment for the Northern Lower Peninsula of Michigan",
     "section": "",
-    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions OF THE LANDSCAPE.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
+    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions of the northern portion of the lower peninsula of Michigan.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#location",
     "href": "index.html#location",
-    "title": "Landscape Assessment",
+    "title": "Landscape Assessment for the Northern Lower Peninsula of Michigan",
     "section": "Location",
     "text": "Location"
   },
   {
     "objectID": "index.html#how-to-use-this-web-report",
     "href": "index.html#how-to-use-this-web-report",
-    "title": "Landscape Assessment",
+    "title": "Landscape Assessment for the Northern Lower Peninsula of Michigan",
     "section": "How to use this web report",
     "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nReview is ongoing.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page."
   },
@@ -116,28 +116,28 @@
     "href": "comparing.html#comparing-broad-vegetation-trends",
     "title": "Comparisons",
     "section": "Comparing Broad Vegetation Trends",
-    "text": "Comparing Broad Vegetation Trends\n\nSummary\nNote: number presented when hovering equals acres."
+    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nA substantial amount of the area has been converted to agricultural land use, with most agriculture happening on lands formerly mapped as hardwoods.\nA relatively small amount of what was mapped as conifer remains in this type, with the remainder of the former conifer areas being mapped as other types including agriculture, hardwoods, and exotics.\nPerhaps the largest changes have occurred in areas formerly mapped as hardwood-conifer (Laurentian-Acadian Northern Pine(-Oak) Forest, Laurentian Pine-Oak Barrens and Laurentian-Acadian Pine-Hemlock-Hardwood Forest Biophysical Settings).\n\nNote: number presented when hovering equals acres."
   },
   {
     "objectID": "comparing.html#succession-classes-for-three-most-dominant-bpss",
     "href": "comparing.html#succession-classes-for-three-most-dominant-bpss",
     "title": "Comparisons",
     "section": "Succession classes for three most dominant BpSs",
-    "text": "Succession classes for three most dominant BpSs"
+    "text": "Succession classes for three most dominant BpSs\n\nSummary\n\nLaurentian-Acadian Northern Hardwoods Forest - Hemlock has seen a total loss of succession class D the tallest, most closed canopy class), largely replaced by class E, which is a mid-development class with species such as sugar maple (Acer saccharum), American basswood (Tilia americana), and paper birch (Betula papyrifera).\nLaurentian-Acadian Northern Pine(-Oak) Forest currently has an under representation of classes C and D (mid-open and late-closed classes), with an over representation of the B class (mid-closed)."
   },
   {
     "objectID": "past.html",
     "href": "past.html",
     "title": "Past: Historical Ecosystems",
     "section": "",
-    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs on the Ouachita National Forest. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
+    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs for the northern portion of the lower peninsula of Michigan. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
   },
   {
     "objectID": "past.html#summary",
     "href": "past.html#summary",
     "title": "Past: Historical Ecosystems",
     "section": "Summary",
-    "text": "Summary\n\nHistorically, more than 35% of northern Michigan was covered by hemlock-dominated northern hardwood forest. Also prevalent in the region were hardwood swamps, pine-oak forests, and pine-oak barrens. The geographic distributions of these ecosystem types are clear, with hemlock forests dominating in the western half of the region, pine-oak barrens prominent in the central portion, and pine-hemlock forests as you approach Lake Huron on the eastern half. Moving below the floristic tension zone, beech-maple forests appear.\nThe vast majority of fire was concentrated in pine-oak barren ecosystems dominated by jack pine (Pinus banksiana) and northern pin oak (idk). Here, over 200,000 acres burned annually pre-European colonization. Mean fire return intervals were between 0-25 years for this ecosystem type, with most of this being surface fire.\nOther fire return intervals were typically above 50-75 years. Wind and weather were the major distrubances in the other ecosystem types."
+    "text": "Summary\n\nHistorically, more than 35% of northern Michigan was covered by hemlock-dominated northern hardwood forest. Also prevalent in the region were hardwood swamps, pine-oak forests, and pine-oak barrens. The geographic distributions of these ecosystem types are clear, with hemlock forests dominating in the western half of the region, pine-oak barrens prominent in the central portion, and pine-hemlock forests as you approach Lake Huron on the eastern half. Moving below the floristic tension zone, beech-maple forests appear.\nThe vast majority of fire was concentrated in pine-oak barren ecosystems dominated by jack pine (Pinus banksiana) and oaks including northern pin oak (Quercus ellipsoidalis), white oak (Quercus alba), northern red oak (Quercus rubra) and black oak (Quercus velutina). Here, over 200,000 acres burned annually pre-European colonization. Mean fire return intervals (all fire types, across all succession classes) were between 0-25 years for this ecosystem type, with most of this being surface fire (mean fire return interval of 5 years).\nOther fire return intervals were typically above 50-75 years. Wind and weather were the major disturbances in the other ecosystem types."
   },
   {
     "objectID": "past.html#most-prevalent-biophysical-settings",

@@ -24,6 +24,10 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 
 ### Summary
 
+* A substantial amount of the area has been converted to agricultural land use, with most agriculture happening on lands formerly mapped as hardwoods.
+* A relatively small amount of what was mapped as conifer remains in this type, with the remainder of the former conifer areas being mapped as other types including agriculture, hardwoods, and exotics.
+* Perhaps the largest changes have occurred in areas formerly mapped as hardwood-conifer (Laurentian-Acadian Northern Pine(-Oak) Forest, Laurentian Pine-Oak Barrens and Laurentian-Acadian Pine-Hemlock-Hardwood Forest Biophysical Settings).
+
 
 
 *Note: number presented when hovering equals acres.*
@@ -93,27 +97,35 @@ htmlwidgets::saveWidget(chord,
 
 ## Succession classes for three most dominant BpSs
 
+### Summary
 
-
-
-
+* Laurentian-Acadian Northern Hardwoods Forest - Hemlock has seen a total loss of succession class D the tallest, most closed canopy class), largely replaced by class E, which is a mid-development class with species such as sugar maple (Acer saccharum), American basswood (Tilia americana), and paper birch (Betula papyrifera).
+* Laurentian-Acadian Northern Pine(-Oak) Forest currently has an under representation of classes C and D (mid-open and late-closed classes), with an over representation of the B class (mid-closed).
 
 
 ```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=6}
 
 BPS_SCLS2 <- read.csv("data/bpsScls2.csv")
 
+top_3_groups <- BPS_SCLS2 %>%
+  group_by(BpS_Name) %>%
+  summarize(total_count = sum(Freq, na.rm = TRUE)) %>%
+  top_n(3, total_count) %>%
+  pull(BpS_Name)
+
 bps_scls_3 <- BPS_SCLS2 %>%
   group_by(Var1) %>%
   #mutate(total.count = sum(Freq)) %>%
   ungroup() %>%
-  dplyr::filter(dense_rank(desc(total_count)) < 4) %>%
+  filter(BpS_Name %in% top_3_groups) %>%
   dplyr::select(c("BpS_Name", "refLabel",  "currentPercent", "refPercent")) %>%
   pivot_longer(
     cols = c(`refPercent`, `currentPercent`),
     names_to = "refCur",
     values_to = "Percent"
     )
+
+write.csv(bps_scls_3, "final_df.csv")
 
 # order classes
 bps_scls_3$refLabel <- factor(bps_scls_3$refLabel, levels= c(

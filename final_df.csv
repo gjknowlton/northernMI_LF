@@ -1,0 +1,61 @@
+"","BpS_Name","refLabel","refCur","Percent"
+"1","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","A","refPercent",2
+"2","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","A","currentPercent",0
+"3","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","B","refPercent",4
+"4","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","B","currentPercent",1
+"5","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","C","refPercent",14
+"6","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","C","currentPercent",5
+"7","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","D","refPercent",76
+"8","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","D","currentPercent",0
+"9","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","E","refPercent",4
+"10","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","E","currentPercent",37
+"11","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","Agriculture","refPercent",0
+"12","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","Agriculture","currentPercent",23
+"13","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","Developed","refPercent",0
+"14","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","Developed","currentPercent",10
+"15","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","Water","refPercent",0
+"16","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","Water","currentPercent",0
+"17","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","UN","refPercent",0
+"18","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","UN","currentPercent",14
+"19","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","UE","refPercent",0
+"20","Laurentian-Acadian Northern Hardwoods Forest - Hemlock","UE","currentPercent",9
+"21","Laurentian-Acadian Northern Pine(-Oak) Forest","A","refPercent",13
+"22","Laurentian-Acadian Northern Pine(-Oak) Forest","A","currentPercent",0
+"23","Laurentian-Acadian Northern Pine(-Oak) Forest","B","refPercent",13
+"24","Laurentian-Acadian Northern Pine(-Oak) Forest","B","currentPercent",60
+"25","Laurentian-Acadian Northern Pine(-Oak) Forest","C","refPercent",48
+"26","Laurentian-Acadian Northern Pine(-Oak) Forest","C","currentPercent",5
+"27","Laurentian-Acadian Northern Pine(-Oak) Forest","D","refPercent",26
+"28","Laurentian-Acadian Northern Pine(-Oak) Forest","D","currentPercent",NA
+"29","Laurentian-Acadian Northern Pine(-Oak) Forest","E","refPercent",NA
+"30","Laurentian-Acadian Northern Pine(-Oak) Forest","E","currentPercent",NA
+"31","Laurentian-Acadian Northern Pine(-Oak) Forest","Agriculture","refPercent",0
+"32","Laurentian-Acadian Northern Pine(-Oak) Forest","Agriculture","currentPercent",9
+"33","Laurentian-Acadian Northern Pine(-Oak) Forest","Developed","refPercent",0
+"34","Laurentian-Acadian Northern Pine(-Oak) Forest","Developed","currentPercent",13
+"35","Laurentian-Acadian Northern Pine(-Oak) Forest","Water","refPercent",0
+"36","Laurentian-Acadian Northern Pine(-Oak) Forest","Water","currentPercent",NA
+"37","Laurentian-Acadian Northern Pine(-Oak) Forest","UN","refPercent",0
+"38","Laurentian-Acadian Northern Pine(-Oak) Forest","UN","currentPercent",NA
+"39","Laurentian-Acadian Northern Pine(-Oak) Forest","UE","refPercent",0
+"40","Laurentian-Acadian Northern Pine(-Oak) Forest","UE","currentPercent",11
+"41","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","A","refPercent",14
+"42","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","A","currentPercent",5
+"43","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","B","refPercent",11
+"44","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","B","currentPercent",2
+"45","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","C","refPercent",21
+"46","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","C","currentPercent",14
+"47","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","D","refPercent",54
+"48","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","D","currentPercent",72
+"49","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","E","refPercent",NA
+"50","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","E","currentPercent",NA
+"51","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","Agriculture","refPercent",0
+"52","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","Agriculture","currentPercent",1
+"53","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","Developed","refPercent",0
+"54","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","Developed","currentPercent",1
+"55","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","Water","refPercent",0
+"56","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","Water","currentPercent",NA
+"57","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","UN","refPercent",0
+"58","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","UN","currentPercent",NA
+"59","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","UE","refPercent",0
+"60","Laurentian-Acadian Alkaline Conifer-Hardwood Swamp","UE","currentPercent",1
