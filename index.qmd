@@ -16,7 +16,7 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
-* Provide context for the past and present ecosystem conditions OF THE LANDSCAPE.
+* Provide context for the past and present ecosystem conditions of Michigan's northern lower peninsula. 
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
 * Facilitate an understanding of historical and current conditions on a regional scale.
 
@@ -56,7 +56,7 @@ quickmap <- qtm(shp,
                 fill = NULL, 
                 check.and.fix = TRUE, 
                 basemaps = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
-                title = 'NAME OF LANDSCAPE',)
+                title = 'Northern Lower Peninsula of Michigan',)
 
 quickmap
 

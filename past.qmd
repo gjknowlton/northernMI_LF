@@ -10,13 +10,13 @@ title: "Past: Historical Ecosystems"
 
 Check out this 3-minute tutorial for a quick refresher on the [basics of Biophysical Settings Models](https://youtu.be/xjaWJCe7udQ){target="blank"}.
 
-Use this page as a starting point to explore the most prevalent BpSs on the Ouachita National Forest. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site.
+Use this page as a starting point to explore the most prevalent BpSs in the northern lower peninsula of Michigan. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site.
 
 ## Summary
 
 -   Historically, more than 35% of northern Michigan was covered by hemlock-dominated northern hardwood forest. Also prevalent in the region were hardwood swamps, pine-oak forests, and pine-oak barrens. The geographic distributions of these ecosystem types are clear, with hemlock forests dominating in the western half of the region, pine-oak barrens prominent in the central portion, and pine-hemlock forests as you approach Lake Huron on the eastern half. Moving below the floristic tension zone, beech-maple forests appear. 
 
-- The vast majority of fire was concentrated in pine-oak barren ecosystems dominated by jack pine (Pinus banksiana) and northern pin oak (idk). Here, over 200,000 acres burned annually pre-European colonization. Mean fire return intervals were between 0-25 years for this ecosystem type, with most of this being surface fire. 
+- The vast majority of fire was concentrated in pine-oak barren ecosystems dominated by jack pine (Pinus banksiana) and northern pin oak. Here, over 200,000 acres burned annually pre-European colonization. Mean fire return intervals were between 0-25 years for this ecosystem type, with most of this being surface fire. 
 
 - Other fire return intervals were typically above 50-75 years. Wind and weather  were the major distrubances in the other ecosystem types. 
 
