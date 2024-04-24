@@ -24,11 +24,20 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 
 ### Summary
 
+<<<<<<< HEAD
 * A substantial amount of the area has been converted to agricultural land use, with most agriculture happening on lands formerly mapped as hardwoods.
 * A relatively small amount of what was mapped as conifer remains in this type, with the remainder of the former conifer areas being mapped as other types including agriculture, hardwoods, and exotics.
 * Perhaps the largest changes have occurred in areas formerly mapped as hardwood-conifer (Laurentian-Acadian Northern Pine(-Oak) Forest, Laurentian Pine-Oak Barrens and Laurentian-Acadian Pine-Hemlock-Hardwood Forest Biophysical Settings).
 
+=======
+- Large shifts have occured in forest landcover in the northern lower peninsula of Michigan. Approximately half of historically hardwood forests still remain in that class, with the portions being split between developed, agricultural, and coniferous forest landcover classes. 
+>>>>>>> d984474690574e5d068a9fb4aaa38d7a4272e629
 
+- Mixed hardwood-conifer forests have largely been lost from the landscape and have transitioned to either hardwood or conifer forest. Other portions have been developed or are now in agricultural land uses. 
+
+- Hardwood conifer swamps are currently in later succession classes than they were historically. 
+
+- Hardwood hemlock forests have mostly been lost from the region and those that remain are in succession class E **what is this**
 
 *Note: number presented when hovering equals acres.*
 

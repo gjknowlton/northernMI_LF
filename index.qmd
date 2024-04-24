@@ -16,7 +16,11 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
+<<<<<<< HEAD
 * Provide context for the past and present ecosystem conditions of the northern portion of the lower peninsula of Michigan.
+=======
+* Provide context for the past and present ecosystem conditions of Michigan's northern lower peninsula. 
+>>>>>>> d984474690574e5d068a9fb4aaa38d7a4272e629
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
 * Facilitate an understanding of historical and current conditions on a regional scale.
 
