@@ -18,6 +18,8 @@ website:
         text: Present
       - href: comparing.qmd
         text: Comparing
+      - href: pines.qmd
+        text: Pines
       - href: about.qmd
         text: About
 

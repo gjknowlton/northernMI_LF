@@ -1,0 +1,187 @@
+---
+title: "Pines"
+---
+
+
+```{r set up, message=FALSE, warning=FALSE, echo=FALSE, include=FALSE}
+geographies <- c(
+                "Boreal ",
+                "Central Interior and Appalachian ",
+                "Great Lakes ",
+                "Laurentian ",
+                "Laurentian-Acadian ",
+                "North-Central Interior ",
+                "Northeastern North American ",
+                "Sub-boreal ",
+                "Northern & Central ")
+```
+
+## Focus on pine ecosystems
+
+For the maps and charts below, data was filtered to only the types with 'Pine' in the name ('Plantation' as well for Existing Vegetation Type).  In general, LANDFIRE maps a substantial loss of pine types from ~3,500,000ac historically to ~2000,000ac as of 2022.  This comparison is an estimate as names are not exactly the same, and mapping methods were very different (i.e., modeled for historical, mapped from satellite imagery for existing).
+
+### Historical Pine Ecosystems (from LANDFIRE Biophysical Settings)
+
+
+![](images/bps-pines.png){width="100%"} 
+
+*Biophysical Settings with only types with 'Pine' in the name. *
+
+<br>
+
+```{r bps chart pines, message=FALSE, warning=FALSE, echo=FALSE, fig.width=10, fig.height=6}
+library(tidyverse)
+library(scales)
+library(stringr)
+
+bps_data_pines <- read.csv("data/bps_aoi_attributes.csv") %>% 
+  filter(grepl("Pine", BPS_NAME, ignore.case = TRUE)) %>%
+  arrange(desc(REL_PERCENT)) 
+
+bps_data_pines$BPS_NAME <- gsub(paste(geographies, collapse = "|"), "", bps_data_pines$BPS_NAME)
+
+# plot
+bps_chart_pines <- 
+  ggplot(data = bps_data_pines, aes(x = BPS_NAME, y = REL_PERCENT)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Pine Biophysical Settings",
+    caption = "Data from landfire.gov",
+    x = "",
+    y = "Percent of landscape") +
+  scale_x_discrete(limits = rev(bps_data_pines$BPS_NAME),
+                   labels = function(x) str_wrap(x, width = 18)) +
+  coord_flip() +
+  theme_bw(base_size = 14)
+
+
+bps_chart_pines
+```
+
+### Pine Existing Vegetation Types
+
+![](images/evt_pines.png){width="100%"} <br>
+
+*Note-types with > 1% removed, and the Northern Pine and Northern Oak types were combined to match BpS in the map.*
+
+```{r evt chart pines, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=6}
+
+evt_data_pines <- read.csv(file = "data/evt_aoi_attributes.csv") %>% 
+  filter(grepl("Pine|Plantation", EVT_NAME, ignore.case = TRUE)) %>%
+  arrange(desc(REL_PERCENT)) %>%
+  filter(REL_PERCENT >= 1)
+
+evt_data_pines$EVT_NAME <- gsub(paste(geographies, collapse = "|"), "", evt_data_pines$EVT_NAME)
+
+# plot
+evt_chart_pines <-
+  ggplot(data = evt_data_pines, aes(x = EVT_NAME, y = REL_PERCENT)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Top 10 Existing Vegetation Types",
+    caption = "Data from landfire.gov",
+    x = "",
+    y = "Percent of landscape") +
+  scale_x_discrete(limits = rev(evt_data_pines$EVT_NAME),
+                   labels = function(x) str_wrap(x, width = 18)) +
+  coord_flip() +
+  theme_bw(base_size = 14)
+
+
+
+evt_chart_pines
+```
+
+*All 'Pine' and 'Plantation' types included, with no grouping of types.*
+
+## Comparing Pine Ecosystems Past and Present
+
+First we look at change 'from' past pine types 'to' current vegetation types.  To make this chord diagram as clear as possible while not losing too much information we:
+
+1. Removed the "Past Boreal Jack Pine-Black Spruce Forest-Spruce-Fir" as it comprised a small portion of the landscape historically.
+2. Only present the top 5-7 Existing Vegetation Types per Biophysical Setting depending on amounts.
+3. Grouped the Agricultural types and roads together.
+
+**Note: Biophysical Settings and Existing Vegetation Type legends are (obviously) different.  Use caution when comparing types.**
+
+```{r include=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+library(chorddiag)
+library(htmlwidgets)
+library(igraph)
+library(readr)
+library(tidygraph)
+library(tidyverse)
+
+```
+
+
+```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+# read in data
+chord_pines_df <- read_csv("data/bps2evt_chord_pines.csv")
+#view(histFireGVchord)
+
+chord_pines_df$Past <- gsub(paste(geographies, collapse = "|"), "", chord_pines_df$Past)
+
+chord_pines_df$EVT <- gsub(paste(geographies, collapse = "|"), "", chord_pines_df$EVT)
+
+
+
+#convert to matrix
+matrix_df <-as.matrix(as_adjacency_matrix(as_tbl_graph(chord_pines_df),attr = "ACRES"))
+
+#clean up matrix (could be cleaner!)
+matrix_df = subset(matrix_df, select = -c(1:5))
+
+matrix_df <- matrix_df[-c(6:16),]
+
+#make a custom color pallet #eb4034 (redish) #b0af9e(grey)
+
+# ORIGINAL
+groupColors <-c( "#1d4220", # conifer
+                 "#56bf5f", # hardwood
+                 "#397d3f", # hardwood-conifer
+                 "#7db7c7", # riparian
+                 "#f5e942", # cur ag
+                 "#1d4220", # cur conifer
+                 "#397d3f", # cur hdw-con
+                 "#b0af9e", # developed
+                 "#eb4034", # exotics
+                 "#fc9d03", # grassland
+                 "#56bf5f", # hardwood
+                 "#7db7c7",
+                 "#6e4f1e"# shrubland
+
+
+)
+
+
+
+#make chord diagram
+chord <-chorddiag(data = matrix_df,
+                 type = "bipartite",
+                 #groupColors = groupColors,
+                 groupnamePadding = 10,
+                 groupPadding = 3,
+                 groupnameFontsize = 10 ,
+                 showTicks = FALSE,
+                 margin = 150,
+                 tooltipGroupConnector = "    &#x25B6;    ",
+                 chordedgeColor = "#363533"
+)
+chord
+
+#save then print to have white background
+htmlwidgets::saveWidget(chord,
+                        "chord.html",
+                        background = "white",
+                        selfcontained = TRUE
+                        )
+```
+
+<iframe src="chord.html" height="800" width="800" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" data-external=".5">
+
+</iframe>
+
+<br>
+
+
